@@ -1,0 +1,11 @@
+ID_Transação,Valor_Transação,Taxa_Cobrada,Isenção_Aplicada,Z-Score,Anomalia,Erro_Isencao,Problema
+9,320.5,4.85,Sim,0.28377552186690413,False,True,True
+10,368.63,2.66,Sim,-0.11590831174845395,False,True,True
+12,486.46,26.0,Não,4.143735832809747,True,False,True
+13,424.6,26.0,Não,4.143735832809747,True,False,True
+34,477.0,26.0,Não,4.143735832809747,True,False,True
+38,93.95,7.2,Sim,0.7126600008605534,False,True,True
+63,422.93,1.52,Sim,-0.3239629100687774,False,True,True
+72,139.42,25.0,Não,3.961231799195428,True,False,True
+93,392.35,27.0,Não,4.326239866424065,True,False,True
+95,396.94,1.73,Sim,-0.28563706300977043,False,True,True
